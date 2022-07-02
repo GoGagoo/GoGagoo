@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![wakatime](https://wakatime.com/badge/user/47df1868-9709-4362-8f70-e8b029c6abd6.svg)](https://wakatime.com/@47df1868-9709-4362-8f70-e8b029c6abd6)
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=GoGagoo&show_icons=true&theme=dark"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=GoGagoo&theme=dark"/>
+</p>
+
+[![wakatime](https://wakatime.com/badge/user/be313269-d5db-4072-a423-e34c4cfa6dff.svg)](https://wakatime.com/@be313269-d5db-4072-a423-e34c4cfa6dff)
