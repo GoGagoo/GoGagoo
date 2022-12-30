@@ -9,7 +9,7 @@ I've learning to code for 2 years. I started with Python, but have really found 
 * 🌍  I'm based in Ekaterinburg (mostly) or Ereven
 * ✉️  You can contact me at [gagika57@gmail.com](mailto:gagika57@gmail.com)
 * 🧠  I'm learning React.js, TypeScript, Node.js
-* 🤝  I'm open to collaborating on I don not mind creating with developers like me!
+* 🤝  I'm open to collaborating. I don't not mind creating with developers like me!
 * ⚡  I am an open person for interesting topics. You won't get bored with me :)
 
 <a href="https://www.github.com/GoGagoo" target="_blank" rel="noreferrer"><img
