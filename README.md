@@ -6,7 +6,7 @@ Web Developer (FullStack)
 
 I've learning to code for 2 years. I started with Python, but have really found a passion for Full-Stack development, presentation and design some stuff
 
-* 🌍  I'm based in Ekaterinburg (mostly) or Ereven
+* 🌍  I'm based in Ekaterinburg (mostly) or Erevan
 * ✉️  You can contact me at [gagika57@gmail.com](mailto:gagika57@gmail.com)
 * 🧠  I'm learning React.js, TypeScript, Node.js
 * 🤝  I'm open to collaborating. I don't not mind creating with developers like me!
