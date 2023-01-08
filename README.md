@@ -32,6 +32,16 @@ src="https://img.shields.io/github/followers/GoGagoo?logo=github&style=for-the-b
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+### Tools
+
+
+<p align="left">
+  <img align="center" alt="npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"/>
+  <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
+  <img align="center" alt="vscode" height="30" width="40" src="https://github.com/JetBrains/logos/blob/master/web/webstorm/webstorm.svg"/>
+  <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg"/>
+</p>
+
 
 ### Socials
 
