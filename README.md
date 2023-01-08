@@ -6,11 +6,11 @@ Web Developer (FullStack)
 
 I've learning to code for 2 years. I started with Python, but have really found a passion for Full-Stack development, presentation and design some stuff
 
-* 🌍  I'm based in Ekaterinburg (mostly) or Erevan
+* 🌍  Based in Ekaterinburg (mostly) or Erevan
 * ✉️  You can contact me at [gagika57@gmail.com](mailto:gagika57@gmail.com)
-* 🧠  I'm learning React.js, TypeScript, Node.js
-* 🤝  I'm open to collaborating. I don't not mind creating with developers like me!
-* ⚡  I'm an open person for interesting topics. You won't get bored with me :)
+* 🧠  Learning React.js, TypeScript, Node.js
+* 🤝  Open to collaborating and creating with developers like me!
+* ⚡  An open person for interesting topics. You won't get bored with me :)
 
 <a href="https://www.github.com/GoGagoo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/GoGagoo?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
