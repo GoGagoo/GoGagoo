@@ -4,7 +4,7 @@ Hi 👋 My name is Gagik Antonyan
 Web Developer (FullStack)
 -------------------------
 
-I've learning to code for 2 years. I started with Python, but have really found a passion for Full-Stack development, presentation and design some stuff
+I've learning to code for 2 years. I started with HTML/CSS/Javascript, but have really found a passion for Full-Stack development, presentation and design some stuff
 
 * 🌍  Based in Ekaterinburg (mostly) or Erevan
 * ✉️  You can contact me at [gagika57@gmail.com](mailto:gagika57@gmail.com)
