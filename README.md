@@ -4,11 +4,17 @@ Hi 👋 My name is Gagik Antonyan
 Web Developer (FullStack)
 -------------------------
 
-I've learning to code for 2 years. I started with HTML/CSS/Javascript, but have really found a passion for Full-Stack development, presentation and design some stuff
+Hi 👋 I'm an aspiring Front-end developer with a passion for building interactive and creative web applications. My fingers itch to understand the intricacies of JavaScript, HTML, and CSS, and I'm eager to apply my knowledge to improve user experience and create modern interfaces.
+
+My goal is not just to code, but to create aesthetically pleasing and functional web applications that will bring joy and satisfaction to users. I am constantly improving my skills by learning the latest technologies and practicing best development practices.
+
+I am willing to collaborate and work in a team. Open to new projects and opportunities that will help me grow as a Front-end developer. I believe that co-creation and knowledge sharing can lead to great results.
+
+If you have interesting projects or ideas on which we could collaborate, feel free to contact me. I would be happy to discuss possible collaborations and contribute to the creation of amazing web applications. Let's make the web better together! 😊🚀
 
 * 🌍  Based in Ekaterinburg (mostly) or Erevan
 * ✉️  You can contact me at [gagika57@gmail.com](mailto:gagika57@gmail.com)
-* 🧠  Learning React.js, TypeScript, Node.js
+* 🧠  Learning React.js, TypeScript,
 * 🤝  Open to collaborating and creating with developers like me!
 * ⚡  An open person for interesting topics. You won't get bored with me :)
 
