@@ -1,7 +1,7 @@
 Hi 👋 My name is Gagik Antonyan
 ===============================
 
-Web Developer (FullStack)
+Front-end Developer
 -------------------------
 
 Hi 👋 I'm an aspiring Front-end developer with a passion for building interactive and creative web applications. My fingers itch to understand the intricacies of JavaScript, HTML, and CSS, and I'm eager to apply my knowledge to improve user experience and create modern interfaces.
