@@ -18,10 +18,12 @@ If you have interesting projects or ideas on which we could collaborate, feel fr
 * 🤝  Open to collaborating and creating with developers like me!
 * ⚡  An open person for interesting topics. You won't get bored with me :)
 
+[![wakatime](https://wakatime.com/badge/user/47df1868-9709-4362-8f70-e8b029c6abd6.svg)](https://wakatime.com/@47df1868-9709-4362-8f70-e8b029c6abd6)
+
 <a href="https://www.github.com/GoGagoo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/GoGagoo?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 
-[![wakatime](https://wakatime.com/badge/user/47df1868-9709-4362-8f70-e8b029c6abd6.svg)](https://wakatime.com/@47df1868-9709-4362-8f70-e8b029c6abd6)
+
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GoGago)](https://github.com/anuraghazra/github-readme-stats)
 
 
