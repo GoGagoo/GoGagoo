@@ -1,22 +1,22 @@
-Hi 👋 My name is Gagik Antonyan
+Привет 👋 Меня зовут Гагик Антонян
 ===============================
 
 Front-end Developer
 -------------------------
 
-Hi 👋 I'm an aspiring Front-end developer with a passion for building interactive and creative web applications. My fingers itch to understand the intricacies of JavaScript, HTML, and CSS, and I'm eager to apply my knowledge to improve user experience and create modern interfaces.
+Привет 👋 Я начинающий Front-end разработчик, увлекающийся созданием интерактивных и креативных веб-приложений. Мои пальцы чешутся от желания разобраться в тонкостях JavaScript, HTML и CSS, и я с нетерпением жду возможности применить свои знания для улучшения пользовательского опыта и создания современных интерфейсов.
 
-My goal is not just to code, but to create aesthetically pleasing and functional web applications that will bring joy and satisfaction to users. I am constantly improving my skills by learning the latest technologies and practicing best development practices.
+Моя цель - не просто кодить, а создавать эстетически привлекательные и функциональные веб-приложения, которые будут приносить радость и удовлетворение пользователям. Я постоянно совершенствую свои навыки, изучая новейшие технологии и применяя лучшие практики разработки.
 
-I am willing to collaborate and work in a team. Open to new projects and opportunities that will help me grow as a Front-end developer. I believe that co-creation and knowledge sharing can lead to great results.
+Я готов сотрудничать и работать в команде. Открыт для новых проектов и возможностей, которые помогут мне вырасти как Front-end разработчику. Я верю, что совместное творчество и обмен знаниями могут привести к отличным результатам.
 
-If you have interesting projects or ideas on which we could collaborate, feel free to contact me. I would be happy to discuss possible collaborations and contribute to the creation of amazing web applications. Let's make the web better together! 😊🚀
+Если у вас есть интересные проекты или идеи, по которым мы могли бы сотрудничать, не стесняйтесь обращаться ко мне. Я буду рад обсудить возможные варианты сотрудничества и внести свой вклад в создание замечательных веб-приложений. Давайте вместе сделаем веб лучше! 😊🚀
 
-* 🌍  Based in Ekaterinburg (mostly) or Erevan
-* ✉️  You can contact me at [gagika57@gmail.com](mailto:gagika57@gmail.com)
-* 🧠  Learning React.js, TypeScript,
-* 🤝  Open to collaborating and creating with developers like me!
-* ⚡  An open person for interesting topics. You won't get bored with me :)
+* 🌍  Базируюсь в Екатеринбурге (в основном) или Ереване
+* ✉️  Вы можете связаться со мной по адресу [gagika57@gmail.com](mailto:gagika57@gmail.com)
+* 🧠  Изучаю React.js, TypeScript и другое,
+* 🤝  Открыт для сотрудничества и творчества с такими же разработчиками, как и я!
+* ⚡  Открытый человек для интересных тем. Со мной вам не будет скучно :)
 
 [![wakatime](https://wakatime.com/badge/user/47df1868-9709-4362-8f70-e8b029c6abd6.svg)](https://wakatime.com/@47df1868-9709-4362-8f70-e8b029c6abd6)
 
@@ -58,7 +58,7 @@ src="https://img.shields.io/github/followers/GoGagoo?logo=github&style=for-the-b
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/GoGagoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gago_chad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/GagoAnto1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/GoGagoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/gago_chad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/GagoAnto1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gagikantonyan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
